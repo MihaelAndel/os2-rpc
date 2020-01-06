@@ -1,0 +1,20 @@
+{
+  "name": "os2-rpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ip-to-int": "^0.3.1",
+    "rpc-websocket": "^0.7.6",
+    "rpc-websockets": "^5.0.9",
+    "rpclibrary": "^1.4.7",
+    "simple-jsonrpc-js": "^1.0.1",
+    "ws": "^7.2.1"
+  }
+}
